@@ -1,0 +1,137 @@
+[
+    {
+        "nome": "arthur",
+        "pontuacao": 100,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "teste",
+        "pontuacao": 50,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "jjjjjjj",
+        "pontuacao": 30,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "arthur",
+        "pontuacao": 90,
+        "dificuldade": "dificil"
+    },
+    {
+        "nome": "lucio",
+        "pontuacao": 80,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "teste",
+        "pontuacao": 100,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "arthur",
+        "pontuacao": 30,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "teste 1",
+        "pontuacao": 100,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "teste 1",
+        "pontuacao": 100,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "teste 1",
+        "pontuacao": 90,
+        "dificuldade": "dificil"
+    },
+    {
+        "nome": "teste 2",
+        "pontuacao": 40,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "marcelo",
+        "pontuacao": 80,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "teste123",
+        "pontuacao": 100,
+        "dificuldade": "dificil"
+    },
+    {
+        "nome": "teste cronometro",
+        "pontuacao": 80,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "teste dnv>",
+        "pontuacao": 30,
+        "dificuldade": "dificil"
+    },
+    {
+        "nome": "teste100010101",
+        "pontuacao": 130,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "teste",
+        "pontuacao": 160,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "arthurteste",
+        "pontuacao": 120,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "teste um trilhao",
+        "pontuacao": 120,
+        "dificuldade": "dificil"
+    },
+    {
+        "nome": "teste 30 03",
+        "pontuacao": 130,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "joel",
+        "pontuacao": 130,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "teste 11010101",
+        "pontuacao": 80,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "teste ",
+        "pontuacao": 120,
+        "dificuldade": "facil"
+    },
+    {
+        "nome": "joao",
+        "pontuacao": 40,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "Cyber",
+        "pontuacao": 160,
+        "dificuldade": "medio"
+    },
+    {
+        "nome": "Cyber",
+        "pontuacao": 60,
+        "dificuldade": "dificil"
+    },
+    {
+        "nome": "Cyber",
+        "pontuacao": 160,
+        "dificuldade": "facil"
+    }
+]

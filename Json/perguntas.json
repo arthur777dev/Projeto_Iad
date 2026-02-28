@@ -1,0 +1,397 @@
+[
+    {
+        "texto": "Quantos jogadores tem um time de futebol?",
+        "imagem": "imagens/pergunta_jogadores.jpg",
+        "dificuldade":"facil",
+        "opcoes": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correta": "11"
+    },
+    {
+        "texto": "Quem é conhecido como Rei do Futebol?",
+        "imagem": "imagens/Rei_futebol.png",
+        "dificuldade": "facil",
+        "opcoes": [
+            "Neymar",
+            "Pelé",
+            "Cristiano Ronaldo",
+            "Messi"
+        ],
+        "correta": "Pelé"
+        
+    },
+    {
+        "texto": " Qual seleção foi a primeira a vencer a Copa do Mundo?",
+        "imagem": "imagens/copa_do_mundo.jpg",
+        "dificuldade":"dificil",
+        "opcoes": [
+            "Uruguai",
+            "Brasil",
+            "Argentina",
+            "Alemanha"
+        ],
+        "correta": "Uruguai"
+    },
+
+    {
+    "texto": "Como ficou conhecido o corte de cabelo do Ronaldo Fenômeno na copa de 2002?",
+    "imagem": "imagens/cascão_2002.jpg",
+    "dificuldade":"facil",
+    "opcoes": [
+        "Corte do Fenômeno",
+        "Degrade",
+        "Cascão",
+        "Raspadão"
+    ],
+    "correta": "Cascão"
+    },
+
+    {
+    "texto": "O que significa a expressão hat-trick no futebol?",
+    "imagem": "imagens/yuri_hat_trick.jpg",
+    "dificuldade":"facil",
+    "opcoes": [
+        "marcar 3 gols",
+        "marcar 3 gols contra",
+        "dar 3 assistências",
+        "ganhar 3 campeonatos seguidos"
+    ],
+    "correta": "marcar 3 gols"
+    },
+
+    {
+    "texto": "Qual clube tem a maior quantidade de títulos da libertadores?",
+    "imagem": "imagens/taça_libertadores.jpg",
+    "dificuldade":"medio",
+    "opcoes": [
+        "Boca Juniors",
+        "Flamengo",
+        "Corinthians",
+        "Independente"
+    ],
+    "correta": "Independente"
+    },
+
+    {
+    "texto": "Quantos metros de distância a barreira deve ficar da bola em uma cobrança de falta?",
+    "imagem": "imagens/falta_cobrança.jpg",
+    "dificuldade":"medio",
+    "opcoes": [
+        "10 metros",
+        "5 metros",
+        "6 metros",
+        "9 metros"
+    ],
+    "correta": "9 metros"
+    },
+
+    {
+    "texto": "Em qual país foi criado o futebol?",
+    "imagem": "imagens/origem_futebol.jpg",
+    "dificuldade":"facil",
+    "opcoes": [
+        "Inglaterra",
+        "Alemanha",
+        "Itália",
+        "Brasil"
+    ],
+    "correta": "Inglaterra"
+    },
+
+    {
+    "texto": "Qual o nome do prêmio dado ao gol mais bonito do ano pela FIFA?",
+    "imagem": "imagens/premio_puskas.webp",
+    "dificuldade":"facil",
+    "opcoes": [
+        "Yashin",
+        "Puskás",
+        "Gol do ano",
+        "Gol de Placa"
+    ],
+    "correta": "Puskás"
+    },
+
+    {
+    "texto": "Qual jogador profissional de futebol também era um dentista formado?",
+    "imagem": "imagens/dr_socrates.jpg",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "Socrátes",
+        "Rivelino",
+        "Giorgio Chiellini",
+        "Simon Mignolet"
+    ],
+    "correta": "Socrátes"
+    },
+
+    {
+    "texto": "Quantos minutos dura uma partida de futebol?",
+    "imagem": "imagens/pergunta_minutos.webp",
+    "dificuldade":"facil",
+    "opcoes": [
+        "90 minutos",
+        "80 minutos",
+        "60 minutos",
+        "50 minutos"
+    ],
+    "correta": "90 minutos"
+    },
+
+    {
+    "texto": "Qual o nome da principal competição de clubes da Europa?",
+    "imagem": "imagens/champions.jpg",
+    "dificuldade":"facil",
+    "opcoes": [
+        "Mundial de Clubes",
+        "Libertadores",
+        "Champions League",
+        "Copa do Mundo"
+    ],
+    "correta": "Champions League"
+    },
+
+    {
+    "texto": "De quanto em quanto tempo acontece a Copa do Mundo?",
+    "imagem": "imagens/copa_do_mundo.jpg",
+    "dificuldade":"facil",
+    "opcoes": [
+        "a cada 2 anos",
+        "a cada 3 anos",
+        "a cada 3,5 anos",
+        "a cada 4 anos"
+    ],
+    "correta": "a cada 4 anos"
+    },
+
+    {
+    "texto": "Pergunta Bônus para os que não manjam de futebol",
+    "imagem": "imagens/trolei.jfif",
+    "dificuldade":"facil",
+    "opcoes": [
+        "certo",
+        "certo",
+        "certo",
+        "certo"
+    ],
+    "correta": "certo"
+    },
+    {
+    "texto": "O que é fazer um gol olímpico?",
+    "imagem": "imagens/pergunta_gol_olimpico.jpg",
+    "dificuldade":"medio",
+    "opcoes": [
+        "gol de bicicleta",
+        "gol marcado nas olimpíadas",
+        "gol de escanteio",
+        "gol de falta"
+    ],
+    "correta": "gol de escanteio"
+    },
+    {
+    "texto": "Qual jogador era conhecido como  Fenômeno?",
+    "imagem": "imagens/pergunta_fenomeno.jpg",
+    "dificuldade":"medio",
+    "opcoes": [
+        "Ronaldo",
+        "Ronaldinho",
+        "Rivaldo",
+        "Romário"
+    ],
+    "correta": "Ronaldo"
+    },
+    {
+    "texto": "Qual o número total de substituições que um time pode fazer durante uma partida?",
+    "imagem": "imagens/pergunta_substituiçoes.jfif",
+    "dificuldade":"medio",
+    "opcoes": [
+        "5",
+        "4",
+        "3",
+        "2"
+    ],
+    "correta": "5"
+    },
+    {
+    "texto": "Qual seleção participou de todas as Copas do Mundo?",
+    "imagem": "imagens/pergunta_participaçao_copa_do_mundo.jpg",
+    "dificuldade":"medio",
+    "opcoes": [
+        "Brasil",
+        "Alemanha",
+        "Itália",
+        "Argentina"
+    ],
+    "correta": "Brasil"
+    },
+    
+
+    {
+    "texto": "Qual foi o último jogador a ganhar a Bola de Ouro?",
+    "imagem": "imagens/pergunta_bola_de_ouro.webp",
+    "dificuldade":"medio",
+    "opcoes": [
+        "Messi",
+        "Vinicius Jr.",
+        "Rodri",
+        "Mbappé"
+    ],
+    "correta": "Rodri"
+    },
+    {
+    "texto": "Quando um jogadoer é expulso, quantas partidas ele fica suspenso?",
+    "imagem": "imagens/pergunta_expulsao.webp",
+    "dificuldade":"medio",
+    "opcoes": [
+        "Nenhuma",
+        "1",
+        "2",
+        "3"
+    ],
+    "correta": "1"
+    },
+    {
+    "texto": "Quantos toques são necessários para o gol ser validado numa cobrança indireta de falta?",
+    "imagem": "imagens/pergunta_cobrança_indireta.webp",
+    "dificuldade":"medio",
+    "opcoes": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "correta": "2"
+    },
+    {
+    "texto": "Após um gol , quem fica com a posse de bola?",
+    "imagem": "imagens/pergunta_posse_de_bola.jpg",
+    "dificuldade":"medio",
+    "opcoes": [
+        "time que sofreu o gol",
+        "time que fez o gol",
+        "joga na sorte",
+        "todas as alternativas "
+    ],
+    "correta": "time que sofreu o gol"
+    },
+
+    {
+    "texto": "Qual jogador detém o recorde de mais gols em uma única partida de Copa do Mundo, marcando 5 gols em 1994?",
+    "imagem": "imagens/pergunta_Oleg_Salenko.jfif",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "Gerd Müller",
+        "Just Fontaine",
+        "Oleg Salenko",
+        "Eusébio"
+    ],
+    "correta": "Oleg Salenko"
+    },
+
+    {
+    },
+    
+    {
+    "texto": "Qual jogador, além de Pelé, jogou em três finais de Copa do Mundo diferentes?",
+    "imagem": "imagens/pergunta_finais_de_copa.webp",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "Cafu",
+        "Cristiano Ronaldo",
+        "Messi",
+        "Maradona"
+    ],
+    "correta": "Cafu"
+    },
+
+    
+
+    {
+    "texto": "Qual clube venceu a primeira edição do Mundial de Clubes da FIFA em 2000?",
+    "imagem": "imagens/pergunta_mundial_2000.webp",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "Flamengo",
+        "Corinthians",
+        "Real Madrid",
+        "Vasco da Gama"
+    ],
+    "correta": "Corinthians"
+    },
+
+    {
+    "texto": "Qual destes jogadores é conhecido por ter inventado o drible elástico?",
+    "imagem": "imagens/pergunta_elastico.jpeg",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "Ronaldinho",
+        "Rivelino",
+        "Garrincha",
+        "Zico"
+    ],
+    "correta": "Rivelino"
+    },
+
+     
+
+    {
+    "texto": "Qual o nome do jogador que perdeu o pênalti decisivo para a Itália na final da Copa de 1994?",
+    "imagem": "imagens/pergunta_Baggio.webp",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "Baggio",
+        "Balotelli",
+        "Pirlo",
+        "Nenhuma das alternativas"
+    ],
+    "correta": "Baggio"
+    },
+
+     
+
+    {
+    "texto": "Quem é o único a ter vencido a Copa do Mundo como jogador e como técnico?",
+    "imagem": "imagens/pergunta_Zagalo.jfif",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "Zagallo",
+        "Guardiola",
+        "Tite",
+        "Dunga"
+    ],
+    "correta": "Zagallo"
+    },
+
+     
+    {
+    "texto": "Quantos países participam da fase de grupos da Copa do Mundo?",
+    "imagem": "imagens/pergunta_participaçao_copa_do_mundo.jpg",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "48",
+        "40",
+        "30",
+        "45"
+    ],
+    "correta": "48"
+    },
+
+     
+
+    {
+    "texto": "Quantos países classificam para a Copa do Mundo da América do Sul? ",
+    "imagem": "imagens/perguntas_eliminatorias.jpeg",
+    "dificuldade":"dificil",
+    "opcoes": [
+        "4",
+        "5",
+        "6",
+        "7"
+    ],
+    "correta": "6"
+    }
+]
+
